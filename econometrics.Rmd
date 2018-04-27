@@ -1,0 +1,22 @@
+---
+title: "Advanced Econometrics - Microeconometrics"
+author: "Jonas Björnerstedt"
+---
+
+## Lectures Microeconometrics
+
+1. Chapter 2 - [Review of Probability](../lecture01)
+2. Chapter 3 - [Review of Statistics](../lecture02)
+3. Chapter 4 - [Linear regression with one regressor](../lecture03)
+4. Chapter 5 - [OLS, Dummy variables and heteroscedasticity](../lecture04) 
+5. Chapters 6 & 7 - [Linear Regression with Multiple Regressors](../lecture05) 
+6. Chapter 12 - [Instrumental Variable Regression](../lecture06) 
+7. Chapter 13 - [Experiments and Quasi-Experiments](../lecture07) 
+8. Chapter 10 - [Regression with Panel Data](../lecture08) 
+9. Chapter 8 - [Nonlinear Regression Functions](../lecture09) 
+10. Chapter 11 - [Regression with a Binary Dependent Variable](../lecture10)   
+
+## Lectures Time Series
+
+- [Course requirements](course-requirements.pdf)
+- [List of Stata Commands](stata_commands.pdf)

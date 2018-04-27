@@ -1,0 +1,10 @@
+name: SH-data
+title:
+username: Jonas
+account: Jonas
+server: rstudio.sh.se
+hostUrl: http://rstudio.sh.se:3939/__api__
+appId: 24
+bundleId: 119
+url: http://rstudio.sh.se:3939/content/24/
+when: 1524849402.79344
